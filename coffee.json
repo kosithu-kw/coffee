@@ -2,12 +2,12 @@
     {
         "name": "Black Coffee",
         "taste" : "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir. Since it isn’t doctored up with milk or sugar, the quality of coffee is especially important. ",
-        "image" : "https://github.com/kosithu-kw/coffee/blob/main/images/black-coffee.jpg"
+        "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/black-coffee.jpg?alt=media&token=0e6bba1f-c1f7-41c7-b626-d9a65af98e97"
     },
     {
         "name": "Latte",
         "taste" : "The latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.",
-        "image" : "https://github.com/kosithu-kw/coffee/blob/main/images/latte.jpg"
+        "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/latte.jpg?alt=media&token=ee3e2e49-a035-4645-a81a-47d9ec939a01"
     }
     
 ]
