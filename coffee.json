@@ -8,6 +8,11 @@
         "name": "Latte",
         "taste" : "The latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.",
         "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/latte.jpg?alt=media&token=ee3e2e49-a035-4645-a81a-47d9ec939a01"
+    },
+    {
+        "name": "Cappuccino",
+        "taste" : "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/cappuccino.jpg?alt=media&token=eb7554e6-0429-4c7d-afe2-d378354300c3"
     }
     
 ]
