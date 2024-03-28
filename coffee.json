@@ -1,18 +1,39 @@
 [
     {
+        "id": 1,
         "name": "Black Coffee",
         "taste" : "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir. Since it isn’t doctored up with milk or sugar, the quality of coffee is especially important. ",
         "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/black-coffee.jpg?alt=media&token=0e6bba1f-c1f7-41c7-b626-d9a65af98e97"
     },
     {
+        "id": 2,
         "name": "Latte",
         "taste" : "The latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.",
         "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/latte.jpg?alt=media&token=ee3e2e49-a035-4645-a81a-47d9ec939a01"
     },
     {
+        "id": 3,
         "name": "Cappuccino",
         "taste" : "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.",
         "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/cappuccino.jpg?alt=media&token=eb7554e6-0429-4c7d-afe2-d378354300c3"
+    },
+    {
+        "id": 4,
+        "name": "Americano",
+        "taste" : "With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water. Pro tip: if you’re making your own, pour the espresso first, then add the hot water.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/americano.jpg?alt=media&token=4c883716-b735-41e6-86ec-c4d10ecb5fbc"
+    },
+    {
+        "id": 5,
+        "name": "Espresso",
+        "taste" : "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/expresso.jpg?alt=media&token=f5b6e784-c985-4801-a173-274fcd5e7b7e"
+    },
+    {
+        "id": 6,
+        "name": "Doppio",
+        "taste" : "A double shot of espresso, the doppio is perfect for putting extra pep in your step.",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/coffee-9459f.appspot.com/o/doppio.jpg?alt=media&token=a1507774-bec9-4e20-86ce-275496f8f014"
     }
     
 ]
